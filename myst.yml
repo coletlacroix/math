@@ -10,5 +10,6 @@ project:
     - title: Think Bayes (Downey)
       children:
         - file: 0.1_think_bayes_(Downey)/1_probability.ipynb
+        - file: "0.1_think_bayes_(Downey)/2_bayes's_theorem.ipynb"
 site:
   template: book-theme
