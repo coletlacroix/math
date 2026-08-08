@@ -6,6 +6,7 @@ project:
   description: "Notes and worked examples"
   github: https://github.com/coletlacroix/math
   toc:
+    - file: index.md
     - title: Think Bayes (Downey)
       children:
         - file: 0.1_think_bayes_(Downey)/1_probability.ipynb
