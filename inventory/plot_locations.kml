@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <color>ff006400</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>P001</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-122.81469271730184,45.59545977737804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>P002</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>-122.78537456564683,45.57953912066223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>P003</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-122.78135793701044,45.58360087683244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>P004</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-122.80224610412436,45.609049128073174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>P005</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-122.80580625187403,45.60772981787804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>P006</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-122.80984840604597,45.60107977705149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>P007</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-122.77930735102045,45.57666696031471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>P008</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>-122.76291480033814,45.568058230938576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>P009</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>-122.78619926180629,45.58070340300554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>P010</name>
+            <description>Stratum: Stratum 1 (low seasonal change — likely evergreen conifer)</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-122.7656948808926,45.569162393120315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>P011</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>-122.76152668736772,45.56167098432644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>P012</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-122.717711552706,45.526663940296544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>P013</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>-122.7326253288192,45.545839984470426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>P014</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>-122.76084853926223,45.56802581575344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>P015</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-122.81091005185709,45.59414283733164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>P016</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-122.73542747988498,45.54947932193909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>P017</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-122.76808732139865,45.58204070882701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>P018</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>-122.73054694590782,45.53744397280756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>P019</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-122.7787566821195,45.57175819823784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>P020</name>
+            <description>Stratum: Stratum 2 (moderate seasonal change — likely mixed conifer/broadleaf)</description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>-122.76905698514753,45.57729417503855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>P021</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-122.73941148621641,45.554242010491784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>P022</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>-122.7478681065072,45.55750205206877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>P023</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-122.74961478782522,45.552282406914415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>P024</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>-122.78576948239356,45.59168574493424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>P025</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>-122.75580227326371,45.56418573199642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>P026</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>-122.74921802526812,45.55568691023026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>P027</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>-122.72702778904188,45.544115647886656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>P028</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>-122.74249887184716,45.54857975106772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>P029</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>-122.7621651653332,45.56723426528572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>P030</name>
+            <description>Stratum: Stratum 3 (high seasonal change — likely deciduous broadleaf)</description>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>-122.78621590309808,45.575115976121474,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
