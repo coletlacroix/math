@@ -1,15 +1,14 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
   id: af601852-cbc3-4d41-9731-bb9a87aa495e
-  title: "Math Notes"
-  description: "Notes and worked examples"
+  title: Math Notes
+  description: Notes and worked examples
   github: https://github.com/coletlacroix/math
   toc:
-    - file: index.md
-    - title: Think Bayes (Downey)
-      children:
-        - file: 0.1_think_bayes_(Downey)/1_probability.ipynb
-        - file: "0.1_think_bayes_(Downey)/2_bayes's_theorem.ipynb"
+  - file: index.md
+  - title: Think Bayes (Downey)
+    children:
+    - file: 0.1_think_bayes_(Downey)/1_probability.ipynb
+    - file: 0.1_think_bayes_(Downey)/2_bayes's_theorem.ipynb
 site:
   template: book-theme
