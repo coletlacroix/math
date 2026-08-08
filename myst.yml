@@ -10,5 +10,8 @@ project:
     children:
     - file: 0.1_think_bayes_(Downey)/1_probability.ipynb
     - file: 0.1_think_bayes_(Downey)/2_bayes's_theorem.ipynb
+  - title: 0.5_ Algebra and Trigonometry
+    children:
+    - file: 0.5_ Algebra and Trigonometry/1_prerequisites.ipynb
 site:
   template: book-theme
