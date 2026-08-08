@@ -6,12 +6,12 @@ project:
   github: https://github.com/coletlacroix/math
   toc:
   - file: index.md
-  - title: 0.1_think_bayes_(Downey)
+  - title: 00.10_Think_Bayes_Downey
     children:
-    - file: 0.1_think_bayes_(Downey)/1_probability.ipynb
-    - file: 0.1_think_bayes_(Downey)/2_bayes's_theorem.ipynb
-  - title: 0.5_ Algebra and Trigonometry
+    - file: 00.10_Think_Bayes_Downey/1_probability.ipynb
+    - file: 00.10_Think_Bayes_Downey/2_bayes's_theorem.ipynb
+  - title: 00.50_Algebra_and_Trigonometry
     children:
-    - file: 0.5_ Algebra and Trigonometry/1_prerequisites.ipynb
+    - file: 00.50_Algebra_and_Trigonometry/1_prerequisites.ipynb
 site:
   template: book-theme
