@@ -12,6 +12,7 @@ project:
     - file: 00.10_Think_Bayes_Downey/2_bayes's_theorem.ipynb
     - file: 00.10_Think_Bayes_Downey/3_distributions.ipynb
     - file: 00.10_Think_Bayes_Downey/4_estimating_proportions.ipynb
+    - file: 00.10_Think_Bayes_Downey/5_estimating_counts.ipynb
   - title: 00.50_Algebra_and_Trigonometry
     children:
     - file: 00.50_Algebra_and_Trigonometry/1_prerequisites.ipynb
