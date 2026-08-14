@@ -15,6 +15,7 @@ project:
     - file: 00.10_Think_Bayes_Downey/5_estimating_counts.ipynb
     - file: 00.10_Think_Bayes_Downey/6_odds_and_addends.ipynb
     - file: 00.10_Think_Bayes_Downey/7_min_max_mix.ipynb
+    - file: 00.10_Think_Bayes_Downey/8_poisson processes.ipynb
   - title: 00.50_Algebra_and_Trigonometry
     children:
     - file: 00.50_Algebra_and_Trigonometry/1_prerequisites.ipynb
