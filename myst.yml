@@ -8,6 +8,7 @@ project:
   - file: index.md
   - title: 00.10_Think_Bayes_Downey
     children:
+    - file: 00.10_Think_Bayes_Downey/10_testing.ipynb
     - file: 00.10_Think_Bayes_Downey/1_probability.ipynb
     - file: 00.10_Think_Bayes_Downey/2_bayes's_theorem.ipynb
     - file: 00.10_Think_Bayes_Downey/3_distributions.ipynb
