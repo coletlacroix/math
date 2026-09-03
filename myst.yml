@@ -8,16 +8,16 @@ project:
   - file: index.md
   - title: 00.10_Think_Bayes_Downey
     children:
+    - file: 00.10_Think_Bayes_Downey/01_probability.ipynb
+    - file: 00.10_Think_Bayes_Downey/02_bayes's_theorem.ipynb
+    - file: 00.10_Think_Bayes_Downey/03_distributions.ipynb
+    - file: 00.10_Think_Bayes_Downey/04_estimating_proportions.ipynb
+    - file: 00.10_Think_Bayes_Downey/05_estimating_counts.ipynb
+    - file: 00.10_Think_Bayes_Downey/06_odds_and_addends.ipynb
+    - file: 00.10_Think_Bayes_Downey/07_min_max_mix.ipynb
+    - file: 00.10_Think_Bayes_Downey/08_poisson processes.ipynb
+    - file: 00.10_Think_Bayes_Downey/09_decision_analysis.ipynb
     - file: 00.10_Think_Bayes_Downey/10_testing.ipynb
-    - file: 00.10_Think_Bayes_Downey/1_probability.ipynb
-    - file: 00.10_Think_Bayes_Downey/2_bayes's_theorem.ipynb
-    - file: 00.10_Think_Bayes_Downey/3_distributions.ipynb
-    - file: 00.10_Think_Bayes_Downey/4_estimating_proportions.ipynb
-    - file: 00.10_Think_Bayes_Downey/5_estimating_counts.ipynb
-    - file: 00.10_Think_Bayes_Downey/6_odds_and_addends.ipynb
-    - file: 00.10_Think_Bayes_Downey/7_min_max_mix.ipynb
-    - file: 00.10_Think_Bayes_Downey/8_poisson processes.ipynb
-    - file: 00.10_Think_Bayes_Downey/9_decision_analysis.ipynb
   - title: 00.50_Algebra_and_Trigonometry
     children:
     - file: 00.50_Algebra_and_Trigonometry/1_prerequisites.ipynb
