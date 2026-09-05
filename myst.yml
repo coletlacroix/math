@@ -6,20 +6,20 @@ project:
   github: https://github.com/coletlacroix/math
   toc:
   - file: index.md
-  - title: 10 Think Bayes Downey
+  - title: Think Bayes Downey
     children:
-    - file: 00.10_Think_Bayes_Downey/01_probability.ipynb
-    - file: 00.10_Think_Bayes_Downey/02_bayes's_theorem.ipynb
-    - file: 00.10_Think_Bayes_Downey/03_distributions.ipynb
-    - file: 00.10_Think_Bayes_Downey/04_estimating_proportions.ipynb
-    - file: 00.10_Think_Bayes_Downey/05_estimating_counts.ipynb
-    - file: 00.10_Think_Bayes_Downey/06_odds_and_addends.ipynb
-    - file: 00.10_Think_Bayes_Downey/07_min_max_mix.ipynb
-    - file: 00.10_Think_Bayes_Downey/08_poisson processes.ipynb
-    - file: 00.10_Think_Bayes_Downey/09_decision_analysis.ipynb
-    - file: 00.10_Think_Bayes_Downey/10_testing.ipynb
-  - title: 50 Algebra And Trigonometry
+    - file: 01_Think_Bayes_Downey/01_probability.ipynb
+    - file: 01_Think_Bayes_Downey/02_bayes's_theorem.ipynb
+    - file: 01_Think_Bayes_Downey/03_distributions.ipynb
+    - file: 01_Think_Bayes_Downey/04_estimating_proportions.ipynb
+    - file: 01_Think_Bayes_Downey/05_estimating_counts.ipynb
+    - file: 01_Think_Bayes_Downey/06_odds_and_addends.ipynb
+    - file: 01_Think_Bayes_Downey/07_min_max_mix.ipynb
+    - file: 01_Think_Bayes_Downey/08_poisson processes.ipynb
+    - file: 01_Think_Bayes_Downey/09_decision_analysis.ipynb
+    - file: 01_Think_Bayes_Downey/10_testing.ipynb
+  - title: Algebra And Trigonometry
     children:
-    - file: 00.50_Algebra_and_Trigonometry/1_prerequisites.ipynb
+    - file: 02_Algebra_and_Trigonometry/1_prerequisites.ipynb
 site:
   template: book-theme
