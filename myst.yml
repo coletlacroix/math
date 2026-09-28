@@ -20,6 +20,7 @@ project:
     - file: 01_Think_Bayes_(Downey)/10_testing.ipynb
     - file: 01_Think_Bayes_(Downey)/11_comparison.ipynb
     - file: 01_Think_Bayes_(Downey)/12_classification.ipynb
+    - file: 01_Think_Bayes_(Downey)/13_inference.ipynb
   - title: Algebra And Trigonometry
     children:
     - file: 02_Algebra_and_Trigonometry/1_prerequisites.ipynb
