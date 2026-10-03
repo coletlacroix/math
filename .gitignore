@@ -13,3 +13,5 @@ _build/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+library_update.ipynb
