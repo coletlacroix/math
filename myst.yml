@@ -6,7 +6,6 @@ project:
   github: https://github.com/coletlacroix/math
   toc:
   - file: index.md
-  - file: library_upate.ipynb
   - title: Algebra And Trigonometry
     children:
     - file: 01_Algebra_and_Trigonometry/1_prerequisites.ipynb
