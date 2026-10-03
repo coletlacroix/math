@@ -6,3 +6,10 @@ _build
 
 # macOS system files
 .DS_Store
+
+# Managed by library_update.ipynb
+inventory/
+_build/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
