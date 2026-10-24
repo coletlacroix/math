@@ -6,9 +6,9 @@ project:
   github: https://github.com/coletlacroix/math
   toc:
   - file: index.md
-  - title: Algebra And Trigonometry
+  - title: Precalculus
     children:
-    - file: 01_Algebra_and_Trigonometry/1_prerequisites.ipynb
+    - file: 01_precalculus/1_prerequisites.ipynb
   - title: Coding
     children:
     - title: Think Bayes (Downey)
