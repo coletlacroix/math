@@ -9,6 +9,7 @@ project:
   - title: Precalculus
     children:
     - file: 01_precalculus/1_prerequisites.ipynb
+    - file: 01_precalculus/2_equations_and_inequalities.ipynb
   - title: Coding
     children:
     - title: Think Bayes (Downey)
